@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Girl's Can Code App**
 
-- 🌱 I’m currently learning **Java, Angular, PHP, Javascript**
+- 🌱 Learning **Java, Angular, PHP, Javascript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
